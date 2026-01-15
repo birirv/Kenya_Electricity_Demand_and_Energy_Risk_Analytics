@@ -24,6 +24,7 @@ This project analyzes Kenya's electricity sector from 2000 to 2024, focusing on 
 - Provide interactive dashboards and visualizations to support decision-making
 
 ## Analytical Workflow
+```mermaid
 flowchart TD
     A[Project Setup & Scope] --> B[Data Acquisition]
     B --> C[Data Cleaning & Preprocessing]
