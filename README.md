@@ -19,8 +19,8 @@ Deliverables
 -	Markdown/PDF reports summarizing insights
 
 Data Sources
--	IEA: Electricity generation by source (GWh, 2000-2024)
--	Our World in Data: Per capita primary energy consumption (kWh/person, 2000-2023)
+-	IEA: Electricity generation by source (GWh, 2000-2024) -https://www.iea.org/countries/kenya/electricity?referrer=grok.com
+-	Our World in Data: Per capita primary energy consumption (kWh/person, 2000-2023) - https://ourworldindata.org/grapher/per-capita-energy-use?country=KEN~OWID_WRL~OWID_AFR~OWID_LMC&overlay=download-data
 
 Tools & Stack
 -	Python (pandas, Prophet, scikit-learn, matplotlib/seaborn)
