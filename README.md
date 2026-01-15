@@ -24,20 +24,20 @@ This project analyzes Kenya's electricity sector from 2000 to 2024, focusing on 
 - Provide interactive dashboards and visualizations to support decision-making
 
 Deliverables
-•	Interactive Power BI dashboards
-•	Python notebooks and SQL scripts
-•	Forecasts of electricity demand to 2030
-•	Risk assessment metrics (volatility, tail risk, risk index)
-•	Markdown/PDF reports summarizing insights
+-	Interactive Power BI dashboards
+-	Python notebooks and SQL scripts
+-	Forecasts of electricity demand to 2030
+-	Risk assessment metrics (volatility, tail risk, risk index)
+-	Markdown/PDF reports summarizing insights
 Data Sources
-•	IEA: Electricity generation by source (GWh, 2000-2024)
-•	Our World in Data: Per capita primary energy consumption (kWh/person, 2000-2023)
-•	Optional: Population, GDP, and climate proxies from World Bank / KNBS
+-	IEA: Electricity generation by source (GWh, 2000-2024)
+-	Our World in Data: Per capita primary energy consumption (kWh/person, 2000-2023)
+-	Optional: Population, GDP, and climate proxies from World Bank / KNBS
 Tools & Stack
-•	Python (pandas, Prophet, scikit-learn, matplotlib/seaborn)
-•	SQL (SQLite/PostgreSQL)
-•	Excel for initial cleaning
-•	Power BI for dashboards and DAX-based metrics
+-	Python (pandas, Prophet, scikit-learn, matplotlib/seaborn)
+-	SQL (SQLite/PostgreSQL)
+-	Excel for initial cleaning
+-	Power BI for dashboards and DAX-based metrics
 
 
 Work in progress. © 2026 Victor Kibirir - Kenya Electricity Demand & Energy Risk Analytics Project
