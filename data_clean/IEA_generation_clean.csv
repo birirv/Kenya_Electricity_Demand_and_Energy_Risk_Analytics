@@ -1,0 +1,151 @@
+electricity_generation_ sources_in_Kenya,Value (GWh),Year
+Oil,2124,2000
+Oil,1508,2001
+Oil,1022,2002
+Oil,920,2003
+Oil,1038,2004
+Oil,1506,2005
+Oil,1819,2006
+Oil,1736,2007
+Oil,2145,2008
+Oil,2997,2009
+Oil,2586,2010
+Oil,2801,2011
+Oil,2200,2012
+Oil,2162,2013
+Oil,2585,2014
+Oil,1412,2015
+Oil,1470,2016
+Oil,2534,2017
+Oil,1545,2018
+Oil,1313,2019
+Oil,754,2020
+Oil,1262,2021
+Oil,1584,2022
+Oil,1305,2023
+Oil,1129,2024
+Hydropower,1325,2000
+Hydropower,2403,2001
+Hydropower,3119,2002
+Hydropower,3433,2003
+Hydropower,3169,2004
+Hydropower,3039,2005
+Hydropower,3025,2006
+Hydropower,3592,2007
+Hydropower,3267,2008
+Hydropower,2160,2009
+Hydropower,3224,2010
+Hydropower,3183,2011
+Hydropower,3977,2012
+Hydropower,4386,2013
+Hydropower,3411,2014
+Hydropower,3464,2015
+Hydropower,3960,2016
+Hydropower,2776,2017
+Hydropower,3986,2018
+Hydropower,3205,2019
+Hydropower,4232,2020
+Hydropower,3675,2021
+Hydropower,3039,2022
+Hydropower,2666,2023
+Hydropower,3630,2024
+Biofuels,133,2000
+Biofuels,115,2001
+Biofuels,145,2002
+Biofuels,135,2003
+Biofuels,150,2004
+Biofuels,163,2005
+Biofuels,162,2006
+Biofuels,176,2007
+Biofuels,168,2008
+Biofuels,279,2009
+Biofuels,270,2010
+Biofuels,270,2011
+Biofuels,258,2012
+Biofuels,271,2013
+Biofuels,220,2014
+Biofuels,230,2015
+Biofuels,229,2016
+Biofuels,156,2017
+Biofuels,169,2018
+Biofuels,148,2019
+Biofuels,218,2020
+Biofuels,250,2021
+Biofuels,264,2022
+Biofuels,199,2023
+Biofuels,269,2024
+Wind,0,2000
+Wind,0,2001
+Wind,0,2002
+Wind,0,2003
+Wind,0,2004
+Wind,0,2005
+Wind,0,2006
+Wind,0,2007
+Wind,0,2008
+Wind,7,2009
+Wind,17,2010
+Wind,18,2011
+Wind,14,2012
+Wind,15,2013
+Wind,17,2014
+Wind,60,2015
+Wind,56,2016
+Wind,61,2017
+Wind,374,2018
+Wind,1562,2019
+Wind,1331,2020
+Wind,1984,2021
+Wind,2143,2022
+Wind,2008,2023
+Wind,1797,2024
+Solar PV,0,2000
+Solar PV,0,2001
+Solar PV,0,2002
+Solar PV,0,2003
+Solar PV,0,2004
+Solar PV,0,2005
+Solar PV,0,2006
+Solar PV,0,2007
+Solar PV,0,2008
+Solar PV,0,2009
+Solar PV,3,2010
+Solar PV,6,2011
+Solar PV,12,2012
+Solar PV,27,2013
+Solar PV,49,2014
+Solar PV,50,2015
+Solar PV,60,2016
+Solar PV,73,2017
+Solar PV,89,2018
+Solar PV,92,2019
+Solar PV,88,2020
+Solar PV,167,2021
+Solar PV,383,2022
+Solar PV,491,2023
+Solar PV,460,2024
+Geothermal,429,2000
+Geothermal,480,2001
+Geothermal,386,2002
+Geothermal,498,2003
+Geothermal,987,2004
+Geothermal,1002,2005
+Geothermal,1046,2006
+Geothermal,989,2007
+Geothermal,1039,2008
+Geothermal,1293,2009
+Geothermal,1057,2010
+Geothermal,1444,2011
+Geothermal,1516,2012
+Geothermal,1781,2013
+Geothermal,2917,2014
+Geothermal,4521,2015
+Geothermal,4484,2016
+Geothermal,4756,2017
+Geothermal,5127,2018
+Geothermal,5234,2019
+Geothermal,5059,2020
+Geothermal,5037,2021
+Geothermal,5517,2022
+Geothermal,6032,2023
+Geothermal,5551,2024
